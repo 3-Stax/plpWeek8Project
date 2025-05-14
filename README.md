@@ -1,7 +1,7 @@
 # plpWeek8Project
 # COVID-19 Data Analysis Project
 
-![COVID-19 Dashboard Example](https://github.com/owid/covid-19-data/raw/master/public/static/images/owid-logo.svg)
+
 
 ## Overview
 This project analyzes global COVID-19 trends including cases, deaths, and vaccination progress across multiple countries. The analysis is performed using Python data tools in a Jupyter Notebook environment, producing visualizations and insights suitable for reporting.
